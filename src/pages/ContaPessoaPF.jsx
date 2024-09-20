@@ -367,7 +367,7 @@ export function ContaPessoaPF() {
 
             <div className="w-full flex justify-between font-light">
               <p>BB CP Admin Supremo</p>
-              <p>160,38</p>
+              <p>0,00</p>
             </div>
           </div>
         </section>
