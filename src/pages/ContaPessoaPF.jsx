@@ -313,7 +313,7 @@ export function ContaPessoaPF() {
                   <tr className="bg-gray-100">
                     <td class="px-4 py-2 border">21/09/2024</td>
                     <td class="px-4 py-2 border"></td>
-                    <td class="px-4 py-2 border">DEBITO BLOQ. JUDICIAL 3</td>
+                    <td class="px-4 py-2 border">DEBITO BLOQ. JUDICIAL</td>
                     <td class="px-4 py-2 border">1</td>
                     <td class="px-4 py-2 border text-red-500 font-semibold">
                       1.553,47 D
@@ -336,11 +336,11 @@ export function ContaPessoaPF() {
             <div>
               <div className="w-full flex justify-between font-light">
                 <p>Aplic.com Resgate Autom.</p>
-                <p className="text-blue-500 font-semibold">160,38 C</p>
+                <p className="text-blue-500 font-semibold">0,00 C</p>
               </div>
               <div className="w-full flex justify-between font-light">
                 <p>Saldo Disponível</p>
-                <p className="text-blue-500 font-semibold">160,38 C</p>
+                <p className="text-blue-500 font-semibold">0,00 C</p>
               </div>
               <div className="w-full flex justify-between font-light">
                 <p>Juros</p>
