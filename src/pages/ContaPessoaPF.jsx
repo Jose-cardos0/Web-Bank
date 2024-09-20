@@ -301,7 +301,7 @@ export function ContaPessoaPF() {
                     <td class="px-4 py-2 border"></td>
                   </tr>
                   <tr>
-                    <td class="px-4 py-2 border">21/08/2024</td>
+                    <td class="px-4 py-2 border">21/09/2024</td>
                     <td class="px-4 py-2 border"></td>
                     <td class="px-4 py-2 border">DEBITO BLOQ. JUDICIAL</td>
                     <td class="px-4 py-2 border">1</td>
