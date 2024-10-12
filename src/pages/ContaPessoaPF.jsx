@@ -98,7 +98,7 @@ export function ContaPessoaPF() {
               />
               <div className="flex flex-col gap-4">
                 <span className="font-light text-sm">
-                  último acesso: 19/09/2024 08:25:43
+                  último acesso: 14/10/2024 10:07:43
                 </span>
                 <span className="font-light text-sm">Sessão durou 07min24</span>
               </div>
@@ -281,7 +281,7 @@ export function ContaPessoaPF() {
                 </thead>
                 <tbody>
                   <tr>
-                    <td class="px-4 py-2 border">20/09/2024</td>
+                    <td class="px-4 py-2 border">20/10/2024</td>
                     <td class="px-4 py-2 border"></td>
                     <td class="px-4 py-2 border"></td>
                     <td class="px-4 py-2 border"></td>
@@ -291,8 +291,8 @@ export function ContaPessoaPF() {
                     </td>
                   </tr>
                   <tr className="bg-gray-100">
-                    <td class="px-4 py-2 border">20/09/2024</td>
-                    <td class="px-4 py-2 border">20/09/2024</td>
+                    <td class="px-4 py-2 border">20/10/2024</td>
+                    <td class="px-4 py-2 border">20/10/2024</td>
                     <td class="px-4 py-2 border">RECEBIMENTO TED</td>
                     <td class="px-4 py-2 border">350</td>
                     <td class="px-4 py-2 border text-blue-500 font-semibold">
@@ -301,7 +301,7 @@ export function ContaPessoaPF() {
                     <td class="px-4 py-2 border"></td>
                   </tr>
                   <tr>
-                    <td class="px-4 py-2 border">20/09/2024</td>
+                    <td class="px-4 py-2 border">20/10/2024</td>
                     <td class="px-4 py-2 border"></td>
                     <td class="px-4 py-2 border">DEBITO BLOQ. JUDICIAL</td>
                     <td class="px-4 py-2 border">1</td>
@@ -311,7 +311,7 @@ export function ContaPessoaPF() {
                     <td class="px-4 py-2 border"></td>
                   </tr>
                   <tr className="bg-gray-100">
-                    <td class="px-4 py-2 border">20/09/2024</td>
+                    <td class="px-4 py-2 border">20/10/2024</td>
                     <td class="px-4 py-2 border"></td>
                     <td class="px-4 py-2 border">DEBITO BLOQ. JUDICIAL</td>
                     <td class="px-4 py-2 border">1</td>
@@ -321,7 +321,7 @@ export function ContaPessoaPF() {
                     <td class="px-4 py-2 border"></td>
                   </tr>
                   <tr>
-                    <td class="px-4 py-2 border">20/09/2024</td>
+                    <td class="px-4 py-2 border">20/10/2024</td>
                     <td class="px-4 py-2 border"></td>
                     <td class="px-4 py-2 border">SALDO</td>
                     <td class="px-4 py-2 border"></td>
@@ -348,7 +348,7 @@ export function ContaPessoaPF() {
               </div>
               <div className="w-full flex justify-between font-light">
                 <p>Data de Débito de Juros</p>
-                <p>30/08/2024</p>
+                <p>30/09/2024</p>
               </div>
               <div className="w-full flex justify-between font-light">
                 <p>IOF</p>
@@ -356,7 +356,7 @@ export function ContaPessoaPF() {
               </div>
               <div className="w-full flex justify-between font-light">
                 <p>Data de Débito de IOF </p>
-                <p>03/09/2024</p>
+                <p>03/10/2024</p>
               </div>
             </div>
             <div className="w-full border">
