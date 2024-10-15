@@ -1,8 +1,7 @@
-# React + Vite
+Projeto Web-Bank<br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O intuído do projeto é apenas praticar a elaboração de uma front-end idêntico ao original.<br/>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bibliotecas utilizadas: <br/>
+- Reactjs<br/>
+- Tailwind css<br/>
